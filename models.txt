@@ -1,3 +1,4 @@
 class JobModel():
 	name=models.CharField()
+	addmiss_n=models.PositiveIntegerField()
 	
